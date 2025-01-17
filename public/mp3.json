@@ -1,0 +1,65 @@
+[
+    {
+      "id": "at-the-side-of-an-rpg-village",
+      "name": "RPG Village Ambience",
+      "mp3": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/mp3/at-the-side-of-an-rpg-village.mp3",
+      "licence": "None",
+      "category": "Music"
+    },
+    {
+      "id": "click-sound",
+      "name": "Button Click",
+      "mp3": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/mp3/click-sound.mp3",
+      "licence": "None",
+      "category": "SoundEffect"
+    },
+    {
+      "id": "late-hours",
+      "name": "Late Hours Mood",
+      "mp3": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/mp3/late-hours.mp3",
+      "licence": "None",
+      "category": "Music"
+    },
+    {
+      "id": "level-passed",
+      "name": "Level Passed Notification",
+      "mp3": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/mp3/level-passed.mp3",
+      "licence": "None",
+      "category": "SoundEffect"
+    },
+    {
+      "id": "little-slime-adventure",
+      "name": "Little Slime's Adventure",
+      "mp3": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/mp3/little-slime-adventure.mp3",
+      "licence": "None",
+      "category": "Music"
+    },
+    {
+      "id": "never-again",
+      "name": "Never Again Dramatic Effect",
+      "mp3": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/mp3/never-again.mp3",
+      "licence": "None",
+      "category": "Music"
+    },
+    {
+      "id": "hello-there",
+      "name": "Hello There Greeting",
+      "mp3": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/mp3/hello-there.mp3",
+      "licence": "None",
+      "category": "Dialogue"
+    },
+    {
+      "id": "rpg-city",
+      "name": "RPG City Ambience",
+      "mp3": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/mp3/rpg-city.mp3",
+      "licence": "None",
+      "category": "Music"
+    },
+    {
+      "id": "teleport-sound",
+      "name": "Teleport Effect",
+      "mp3": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/mp3/teleport-sound.mp3",
+      "licence": "None",
+      "category": "SoundEffect"
+    }
+  ]

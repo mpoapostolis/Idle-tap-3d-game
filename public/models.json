@@ -1,0 +1,54 @@
+{
+  "models": [
+    {
+      "name": "Green Blob",
+      "glb": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/storage/scene_xSknQmGwTE.glb",
+      "levelRange": [1, 3]
+    },
+    {
+      "name": "Green Spiky Blob",
+      "glb": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/storage/scene_2TXu5Mesap.glb",
+      "levelRange": [4, 6]
+    },
+    {
+      "name": "Frog",
+      "glb": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/storage/scene_yhw3MHHaHL.glb",
+      "levelRange": [7, 9]
+    },
+    {
+      "name": "Pink Slime",
+      "glb": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/storage/scene_lFvTOkwDBu.glb",
+      "levelRange": [11, 13]
+    },
+    {
+      "name": "Mushnub",
+      "glb": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/storage/scene_z8SoI0jnDj.glb",
+      "levelRange": [14, 16]
+    },
+    {
+      "name": "Cactoro",
+      "glb": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/storage/scene_AM1nVOX2QG.glb",
+      "levelRange": [17, 19]
+    },
+    {
+      "name": "Goleling",
+      "glb": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/storage/scene_8NnCfas5mz.glb",
+      "levelRange": [21, 23]
+    },
+    {
+      "name": "Yeti",
+      "glb": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/storage/scene_kmOGrW6wrn.glb",
+      "levelRange": [24, 26]
+    },
+    {
+      "name": "Orc Enemy",
+      "glb": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/storage/scene_oUbb5DExUj.glb",
+      "levelRange": [27, 29]
+    },
+    {
+      "name": "Blue Demon",
+      "glb": "https://raw.githubusercontent.com/mpoapostolis/3d-assets/refs/heads/master/storage/scene_ZMJe8ueZXb.glb",
+      "isBoss": true
+    }
+  ]
+}
