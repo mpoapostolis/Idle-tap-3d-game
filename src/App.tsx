@@ -50,7 +50,25 @@ function App() {
         className={`absolute inset-0 flex flex-col items-center justify-center bg-gradient-to-br from-gray-900 via-blue-900 to-gray-900 transition-opacity duration-1000 ${
           isStarting ? "opacity-0" : "opacity-100"
         }`}
+        style={{ width: "100vw", height: "100vh", overflow: "hidden" }}
       >
+        <style>
+          {`
+            * {
+              box-sizing: border-box;
+              margin: 0;
+              padding: 0;
+            }
+            
+            html, body {
+              width: 100%;
+              height: 100%;
+              margin: 0;
+              padding: 0;
+              overflow: hidden;
+            }
+          `}
+        </style>
         <div className="animate-float">
           <h1 className="text-6xl font-bold text-white mb-2 text-center animate-glow">
             Tap Titans
